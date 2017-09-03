@@ -14,3 +14,19 @@ p{
   font-family: sans-serif;
   color: maroon;
 }
+
+p.greentea{
+   color: green;
+}
+
+p.respberryice{
+   color: blue;
+}
+
+p.blueberrybliss{
+   color: purple;
+}
+
+p.cranberryblast{
+   color: maroon;
+}
