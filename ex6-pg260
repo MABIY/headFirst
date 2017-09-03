@@ -33,7 +33,7 @@
 			Still got problems? Relax, Webville’s a friendly place, just ask someone
 			for help. And, as a local used to say:
 		</p>
-
+		<!-- blockquotes only accepts block elements. That's why we must put <p> -->
 		<blockquote>
 			<p>
 			Don’t worry. As long as you hit that wire with the connecting hook
