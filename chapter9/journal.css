@@ -4,7 +4,9 @@ body{
 }
 
 h1, h2{
+   border-bottom: thin dotted #888888;
    font-weight: normal;
+   color: #cc6600;
 }
 
 h1{
