@@ -35,6 +35,9 @@ body {
   padding:          15px;
   margin:           10px;
   font-size:        90%;
+
+  clear:            right;
+
 }
 
 h1 {
