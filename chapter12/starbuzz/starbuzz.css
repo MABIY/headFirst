@@ -65,3 +65,17 @@ a:visited {
   border-bottom:    thin dotted #675c47;
 }
 
+
+#allcontent{
+  width: 800px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  background-color: #675c47;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+
+
