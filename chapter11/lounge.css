@@ -51,6 +51,9 @@ h2 {
    background-repeat: repeat-x;
 
    line-height: 1;
+   
+   float: right;
+
 }
 
 #elixirs h2{
@@ -76,6 +79,55 @@ h2 {
 .artist{
    font-weight: bold;
 }
+
+/*adding pseudo-class to elixirs link*/
+
+#elixirs a:link{
+    color: #007e7e;
+}
+
+#elixirs a:visited{
+    color: #333333;
+}
+
+#elixirs a:hover{
+    background: #f88396;
+    color: #0d5353;
+}
+
+/*adding pseudo-class to <a> element*/
+a:link{
+    color:#007e7e;
+}
+
+a:visited{
+    color:#333333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
