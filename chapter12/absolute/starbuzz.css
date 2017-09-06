@@ -52,6 +52,11 @@ h2 { font-size: 110%; }
   line-height:      1.8em;
 }
 
+.beanheading img{
+  position: relative;
+  left: 120px;
+}
+
 a:link {
   color:            #b76666;
   text-decoration:  none;
