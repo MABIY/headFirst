@@ -73,7 +73,7 @@ a:visited {
 #coupon{
   position:         fixed;
   top:              300px;
-  left:             0px;
+  left:             -90px;
 }
 
 #coupon img{
